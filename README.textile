@@ -1,3 +1,5 @@
+(to get dependencies) sudo apt-get install postgresql postgresql-contrib libpq-dev nodejs
+
 sudo service postgresql start
 
 
